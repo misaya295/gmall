@@ -8,7 +8,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="gmall-mock" />
         <module name="gmall-common" />
+        <module name="dw-chart" />
         <module name="gmall-realtime" />
+        <module name="gmall-publisher" />
         <module name="gmall-logger" />
       </profile>
     </annotationProcessing>
@@ -18,6 +20,7 @@
       <module name="gmall-common" options="" />
       <module name="gmall-logger" options="" />
       <module name="gmall-mock" options="" />
+      <module name="gmall-publisher" options="" />
     </option>
   </component>
 </project>
